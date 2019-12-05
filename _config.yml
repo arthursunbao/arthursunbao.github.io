@@ -24,9 +24,9 @@ description: Personal Homepage
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Projects: "index"
+  Projects: "pages/projects.md"
   CV: "upload/CV.pdf"
-  Cloud Computing: "pages/aws_study.html"
+  Cloud Computing: "pages/aws_study_list.md"
   Photos: "index"
 
 # Image to show in the navigation bar - image must be a square (width = height)
